@@ -1,5 +1,5 @@
-nombre = "Anderson Jair"
-apellido = "Requejo Sifuentes"
+nombre = input("Coloca tu nombre: ")
+apellido = input("Coloca tu apellido: ")
 edad = input("Coloca tu edad: ")
 
 saludo = "Hola " + nombre +  " " + apellido +". " + "Tu edad es: " + edad
